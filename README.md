@@ -7,6 +7,9 @@ Final project for the Building AI course
 Dette prosjektet er et AI-drevet verktøy som automatiserer og strukturerer markedsavdelingens arbeidshverdag. Løsningen gir en komplett oversikt over årets markedsaktiviteter, bryter kampanjer ned i konkrete oppgaver, delegerer disse til teammedlemmer, følger opp progresjon, og dytter til slutt ferdig innhold ut som utkast til sosiale medier og nettsider.
 
 ## Background
+![image of an online cat](https://tinyurl.com/elementsofaicat)
+![image of a cat](/cat_image.jpg)
+
 
 Markedsføring i dag krever koordinering på tvers av mange kanaler, systemer og mennesker. Ofte forsvinner mye verdifull tid i manuelt administrativt arbeid. Dette prosjektet løser flere utfordringer:
 
