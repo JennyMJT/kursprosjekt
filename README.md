@@ -8,7 +8,7 @@ Dette prosjektet er et AI-drevet verktøy som automatiserer og strukturerer mark
 
 ## Background
 ![image of an online cat](https://tinyurl.com/elementsofaicat)
-![image of a cat](/cat_image.jpg)
+![Gemini_Generated_Image_8bn5ta8bn5ta8bn5.png](/Gemini_Generated_Image_8bn5ta8bn5ta8bn5.png)
 
 
 Markedsføring i dag krever koordinering på tvers av mange kanaler, systemer og mennesker. Ofte forsvinner mye verdifull tid i manuelt administrativt arbeid. Dette prosjektet løser flere utfordringer:
@@ -20,6 +20,7 @@ Markedsføring i dag krever koordinering på tvers av mange kanaler, systemer og
 Motivasjonen bak prosjektet er å la AI ta seg av prosjektledelsen og det rutinemessige, slik at markedsføringsteamet kan fokusere på kreativitet og strategi.
 
 ## How is it used?
+![Gemini_Generated_Image_b3bnzxb3bnzxb3bn.png](/Gemini_Generated_Image_b3bnzxb3bnzxb3bn.png)
 
 Løsningen er tenkt brukt daglig av markedsavdelingen, fra markedssjef til innholdsprodusenter. 
 
@@ -30,6 +31,7 @@ Løsningen er tenkt brukt daglig av markedsavdelingen, fra markedssjef til innho
 4. **Automatisert utkast:** Når en tekst eller et bilde er markert som ferdig i systemet, bruker AI-en API-integrasjoner til å automatisk opprette et upublisert utkast direkte på nettsiden (f.eks. WordPress) og i sosiale medie-kanaler (Meta, LinkedIn). Alt er klart for en siste menneskelig godkjenning ("Human-in-the-loop").
 
 ## Data sources and AI methods
+![Gemini_Generated_Image_rl9r4frl9r4frl9r.png](/Gemini_Generated_Image_rl9r4frl9r4frl9r.png)
 
 Dataene prosjektet bygger på vil være en kombinasjon av intern bedriftsdata og eksterne API-er:
 
